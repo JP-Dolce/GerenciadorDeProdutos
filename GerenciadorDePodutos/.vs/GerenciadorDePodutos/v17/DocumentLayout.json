@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|c:\\users\\jpedr\\documents\\bootcamp-squadra\\gerenciadordepodutos\\gerenciadordepodutos\\repositories\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\repositories\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\repositories\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\repositories\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\gerenciadordepodutos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{139BF5B9-5D39-4CD4-87F2-B64EB5E38B92}|GerenciadorDePodutos\\GerenciadorDePodutos.csproj|solutionrelative:gerenciadordepodutos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Web.config",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Web.config",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Web.config",
+              "RelativeToolTip": "GerenciadorDePodutos\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-08T16:52:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:51:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\User.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Repositories\\User.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\User.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Repositories\\User.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:08:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:18:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:57:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\Produto.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Repositories\\Produto.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\Produto.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Repositories\\Produto.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwKsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:51:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\Categoria.cs",
+              "RelativeDocumentMoniker": "GerenciadorDePodutos\\Repositories\\Categoria.cs",
+              "ToolTip": "C:\\Users\\jpedr\\Documents\\Bootcamp-Squadra\\GerenciadorDePodutos\\GerenciadorDePodutos\\Repositories\\Categoria.cs",
+              "RelativeToolTip": "GerenciadorDePodutos\\Repositories\\Categoria.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:51:26.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
